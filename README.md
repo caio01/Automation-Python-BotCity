@@ -1,4 +1,4 @@
-# Automation-Python-BotCity
+# Automação em Python utilizando o BotCity
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/caio01/Automation-Python-BotCity/blob/master/LICENSE)
 
 # Sobre o projeto
