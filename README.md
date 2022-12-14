@@ -5,11 +5,7 @@
 Projeto desenvolvido para automatizar tarefas manuais de busca de dados de Clientes específicos no ERP da empresa, e posterior preenchimento em planilha de Excel, para gerar relatório.
 
 ## Projeto em execução
-
-
-
-https://user-images.githubusercontent.com/49879702/207724450-6bcada24-33dd-4bd8-bb00-256fab663d50.mp4
-
+https://user-images.githubusercontent.com/49879702/207725680-5b458346-c25e-41a4-9c88-c7daf4053f46.mp4
 
 
 # Tecnologias utilizadas
